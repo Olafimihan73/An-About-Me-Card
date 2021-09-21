@@ -1,0 +1,67 @@
+/* Cascading Style Sheet*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+
+* {
+    margin: 0;
+    padding: o;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+main {
+    background-color: #EDF6F9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  
+  
+ }
+
+.card {
+  background-color: #B6C2D9;
+  width: 400px;
+  padding: 32px;
+  border-radius: 20px;
+  text-align: center;
+  
+}
+
+h1 {
+  color: #1B212C;
+  font-size: 32px;
+  font-family: "Poppins", Sans-serif;
+  text-transform: uppercase;
+  
+}
+
+p {
+  color: #SE6368;
+  font-family: "Poppins", Sans-serif;
+  font-size: 20px;
+  font-weight: bold; 
+}
+
+.links {
+
+}
+
+img {
+  width: 140px;
+  height: 140px;
+  border-radius: 99px;
+ 
+}
+
+a {
+    padding-left: 20px;
+}
+
+.icon {
+    display: inline;
+    background-color: #B6C2D9;
+    border-radius: 999px;
+    padding: 5px;
+}
